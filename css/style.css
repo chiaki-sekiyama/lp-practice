@@ -50,6 +50,10 @@ header {
   color: #333;
 }
 
+main {
+  padding-top: 78px;
+}
+
 /*main,keyvisual*/
 .keyvisual {
   background: url(../img/keyvisual/keyvisual.jpg) no-repeat center/contain;
@@ -120,6 +124,7 @@ h3 {
   width: 300px;
   height: 300px;
   opacity: 0.7;
+  transition: 0.7s;
 }
 
 .skills-img:hover {
