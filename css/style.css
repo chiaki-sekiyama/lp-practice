@@ -165,7 +165,7 @@ tr:first-child {
   background: #6ba7eb;
 }
 
-th:first-child, th:nth-child(5n) {
+th:first-child, th:nth-child(n+5) {
   border-left: none;
 }
 
