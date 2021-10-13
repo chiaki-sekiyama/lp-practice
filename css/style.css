@@ -56,7 +56,7 @@ main {
 
 /*main,keyvisual*/
 .keyvisual {
-  background: url(../img/keyvisual/keyvisual.jpg) no-repeat center/contain;
+  background: url(../img/keyvisual/keyvisual.jpg) no-repeat center/cover;
   text-align: center;
   padding: 400px 0;
 }
@@ -184,6 +184,7 @@ th:first-child, th:nth-child(n+5) {
   background: #e3f2fd;
   padding: 200px 0;
   text-align: center;
+  font-size: 0;
 }
 
 .snsicon {
