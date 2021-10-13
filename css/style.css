@@ -87,6 +87,7 @@ h2 {
 
 .pc-img {
   width: 250px;
+  justify-self: center;
 }
 
 h3 {
